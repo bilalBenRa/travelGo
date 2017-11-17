@@ -5,5 +5,4 @@ public enum Landscape {
 	MONTAIN,
 	COUNTRYSIDE,
 	RIVER
-
 }
